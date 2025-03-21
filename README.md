@@ -1,1 +1,3 @@
-# ai-school-final
+This repo covers the final project for the course. The process is similar to the initial process covered in the ai-school-final-initial repo, but get_fax_info.py uses tools and agents to parse through the OCR text instead of individual openai calls. This will hopefully make it easier to modify in the future, say if I wanted to add an extra feature to repeat looking for the customer/shipping address if it does not find a good match with what was initially detected. 
+
+There is a single agent that has access to the three tools extract_order_details, find_best_customer, and find_best_shipping. It responds to prompts given to it by calling one of these three tools. Once the customer and shipping is collected, the products are found using the same method as in the ai-school-final-initial repo. 

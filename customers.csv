@@ -1,0 +1,101 @@
+ID,Name1,Name2,Address_City,Address_Street,Phone,Fax
+1,Golden Hammer Carpentry,Metro Branch,Milwaukee,4003 Grant St,(910) 864-8962,(910) 864-8963
+2,Everlast Contractors,Custom Builds,Plano,6526 Liberty Blvd,(853) 270-7135,(853) 270-7136
+3,Vanguard HVAC Services,Tech Solutions,Boston,173 Willow Ave,(863) 980-7964,(863) 980-7965
+4,SecureHome Lock & Key,Framing Team,Tulsa,7240 Hillside Rd,(832) 779-8582,(832) 779-8583
+5,PureBuild Contractors,Smart Home Installers,Washington,5242 Township Rd,(656) 565-7500,(656) 565-7501
+6,BrightLight Electrical,Retrofitting Team,Las Vegas,7452 Republic Ave,(711) 285-3344,(711) 285-3345
+7,BluePrint Engineering,Window & Door Specialists,Pittsburgh,1930 Loyalty Blvd,(824) 398-8198,(824) 398-8199
+8,Bright Future Solar,Construction Team 2,New Orleans,6795 Eisenhower St,(485) 247-8528,(485) 247-8529
+9,SkyHigh Scaffolding,Fencing & Decks,Washington,1232 Maple St,(240) 815-9777,(240) 815-9778
+10,Apex Roofing Solutions,Smart Tech Solutions,Durham,9534 Hope Ave,(610) 188-1644,(610) 188-1645
+11,Peak Performance Builders,New Installations,Des Moines,1293 Innovation Dr,(887) 375-5645,(887) 375-5646
+12,Summit Painting & Coating,Power Tools & Equipment,Omaha,7119 Summer Blvd,(346) 941-1090,(346) 941-1091
+13,Johnson Builders,Legacy Projects,Jacksonville,8324 Eisenhower St,(392) 347-9641,(392) 347-9642
+14,Core Stoneworks,Operations Center,Atlanta,8633 Nixon Blvd,(326) 754-7095,(326) 754-7096
+15,Horizon Fence & Deck,Industrial Division,Henderson,5807 Coolidge Rd,(485) 454-8790,(485) 454-8791
+16,RedBrick Construction,Downtown Office,Anaheim,5134 Truman Blvd,(751) 716-2230,(751) 716-2231
+17,Stronghold Masonry,Regional HQ,Irvine,8240 Main St,(871) 959-9915,(871) 959-9916
+18,Pinnacle Paving,Fleet & Logistics,Los Angeles,4756 Innovation Dr,(824) 331-9139,(824) 331-9130
+19,Everest Renovations,Timber & Framing,Boston,2042 Integrity Rd,(278) 114-1008,(278) 114-1009
+20,Summit Roofing,Equipment Rentals,Raleigh,9394 Meadow Ln,(348) 581-3963,(348) 581-3964
+21,Platinum Home Remodeling,Construction Team 1,Baltimore,870 Tyler Blvd,(600) 155-4958,(600) 155-4959
+22,Pioneer Roofing,Concrete Polishing,Honolulu,4107 Summer Blvd,(641) 641-7649,(641) 641-7640
+23,Majestic Homes,Electrical Services,Laredo,2266 Monroe Ave,(241) 938-6551,(241) 938-6552
+24,Golden State Contractors,High-Rise Projects,Chesapeake,9449 Meadow Ln,(781) 559-1146,(781) 559-1147
+25,Sunrise Painting Co.,Professional Contracting,Mesa,3664 Harding Ave,(497) 733-2594,(497) 733-2595
+26,Elite Home Renovations,Customer Relations,Norfolk,8443 Pioneer Blvd,(354) 670-3531,(354) 670-3532
+27,FutureTech Construction,Corporate HQ,Fresno,8874 Republic Ave,(857) 992-9860,(857) 992-9861
+28,Excel Custom Homes,Urban Development,Riverside,7574 Lincoln Blvd,(457) 877-1793,(457) 877-1794
+29,UrbanEdge Construction,Southwest Branch,Tulsa,6387 Grant St,(469) 944-8023,(469) 944-8024
+30,SteelCore Fabrication,Custom Woodworking,St. Louis,841 Kindness Blvd,(498) 312-1309,(498) 312-1300
+31,Aspen Interiors,Lighting & Electrical,Irving,2073 Reagan Blvd,(380) 149-2251,(380) 149-2252
+32,Westwood Cabinetry,Remodeling Services,Kansas City,486 Frontier Dr,(682) 534-4244,(682) 534-4245
+33,Redwood Fencing,Modular Construction,Long Beach,5604 Prosperity Dr,(914) 714-2140,(914) 714-2141
+34,NextGen Electrical,Service & Repair,Laredo,5713 Kennedy Ave,(713) 708-8939,(713) 708-8930
+35,Atlas Renovations,Warehouse Distribution,Austin,7277 Adams Blvd,(612) 495-1902,(612) 495-1903
+36,PowerHouse Plumbing,Glass & Mirror Experts,San Francisco,1553 Nixon Blvd,(994) 719-9893,(994) 719-9894
+37,Reliable Handyman Services,East Division,Madison,3667 Meadow Ln,(872) 403-6695,(872) 403-6696
+38,Dynamic Flooring Solutions,West Division,Tucson,6790 Washington St,(825) 378-3749,(825) 378-3740
+39,EcoFlow Plumbing,Green Energy Team,Norfolk,6805 Explorer Ave,(493) 668-7419,(493) 668-7410
+40,Elevation Tile & Stone,Mobile Service Team,Baltimore,3627 Clinton Ave,(442) 471-7539,(442) 471-7530
+41,TrueForm Concrete,Paint & Coating,Chula Vista,7297 Clinton Ave,(284) 531-7586,(284) 531-7587
+42,Landmark Developments,Fire Safety Division,Sacramento,4995 Broadway,(512) 581-7219,(512) 581-7210
+43,ClearPath Construction,Landscaping & Outdoor,Atlanta,115 Summer Blvd,(872) 434-4191,(872) 434-4192
+44,GraniteWorks Countertops,Emergency Response,Tampa,5986 Heritage Rd,(825) 728-4492,(825) 728-4493
+45,Summit Mechanical,Road Construction Unit,Orlando,1069 Trust Rd,(844) 290-2921,(844) 290-2922
+46,PureFlow Plumbing,Heavy Equipment Division,Plano,7187 Harrison St,(691) 804-3558,(691) 804-3559
+47,Precision Woodworks,West Coast Branch,Richmond,9212 Roosevelt Rd,(308) 132-9225,(308) 132-9226
+48,Quality Home Repair,Stone & Tile Division,Phoenix,9812 College Ave,(520) 719-9341,(520) 719-9342
+49,Legacy Electricians,Northern Operations,Denver,9594 Innovation Dr,(203) 287-6845,(203) 287-6846
+50,Timberline Siding,HVAC & Climate Control,Dallas,6496 Industrial Ave,(406) 326-4609,(406) 326-4600
+51,EcoBuilders,Field Team C,Corpus Christi,6073 Equality St,(526) 712-7466,(526) 712-7467
+52,Foundation First Construction,Warehouse Expansion,Irving,8005 Truman Blvd,(869) 318-5323,(869) 318-5324
+53,EverGreen Home Solutions,Interior Finishing,Columbus,5013 Liberty Blvd,(697) 160-2375,(697) 160-2376
+54,Superior Drywall,Water Filtration Systems,Portland,7166 Cedar Ave,(936) 565-4243,(936) 565-4244
+55,Smith Construction,Field Team B,Nashville,4066 Spring St,(568) 657-5781,(568) 657-5782
+56,HomePro Services,Heritage Restoration,El Paso,5611 Coolidge Rd,(242) 602-4376,(242) 602-4377
+57,Waterproof Roofing,Masonry Specialists,Philadelphia,3785 Riverside Dr,(803) 254-9724,(803) 254-9725
+58,Ironclad Welding,Concrete & Foundations,Stockton,1650 College Ave,(228) 622-9713,(228) 622-9714
+59,Metro Renovations,Field Team A,Fort Worth,3142 Country Club Dr,(955) 739-2831,(955) 739-2832
+60,StoneCraft Masonry,Advanced Engineering,Corpus Christi,3524 Democracy Blvd,(594) 585-9253,(594) 585-9254
+61,Horizon Window & Doors,Structural Engineering,El Paso,4226 Respect Ave,(739) 916-1379,(739) 916-1370
+62,Precision Decking,Retail Showroom,Pittsburgh,7062 Oak Ave,(275) 808-7772,(275) 808-7773
+63,NorthStar Roofing,Manufacturing Facility,Charlotte,450 Jefferson St,(689) 435-2142,(689) 435-2143
+64,Skyline Contractors,Emergency Restoration,Fort Wayne,312 Spring St,(392) 351-2972,(392) 351-2973
+65,ProShield Insulation,Gutter & Drainage Solutions,Bakersfield,4295 Carter Rd,(876) 866-7569,(876) 866-7560
+66,Horizon Builders,Central Branch,Irving,2142 Willow Ave,(707) 987-6082,(707) 987-6083
+67,Valley Plumbing Experts,Custom Kitchens & Baths,Lexington,3118 Bush St,(221) 184-6864,(221) 184-6865
+68,Titan Industrial Solutions,Backup Power Systems,Reno,2472 Eisenhower St,(206) 669-1771,(206) 669-1772
+69,ProCore Developments,Interior Renovations,Birmingham,5233 Prosperity Dr,(789) 114-7229,(789) 114-7220
+70,GoldCo Builders,Premium Services,Birmingham,2693 Happiness Blvd,(951) 999-3341,(951) 999-3342
+71,Hyperion Builders,Project Management,Virginia Beach,695 Constitution Ave,(607) 558-3717,(607) 558-3718
+72,Platinum Tiling,Exterior Cladding Team,Hialeah,9570 Liberty Blvd,(702) 721-9230,(702) 721-9231
+73,PrimeEdge Interiors,Cabinet & Millwork,Long Beach,4186 Bush St,(276) 254-1522,(276) 254-1523
+74,StoneBridge Masonry,Solar Panel Installers,Indianapolis,3700 Franklin Blvd,(800) 365-5892,(800) 365-5893
+75,HighPoint Developments,Commercial Team,Raleigh,8261 Discovery Rd,(363) 258-8540,(363) 258-8541
+76,Victory Builders,Residential Services,Miami,1919 Commerce Blvd,(812) 802-7119,(812) 802-7110
+77,Crystal Clear Windows,Maintenance & Repairs,Lexington,7692 Riverside Dr,(484) 889-6517,(484) 889-6518
+78,BlueSky Roofing,Retail Division,Irving,3862 Sunset Blvd,(744) 488-9212,(744) 488-9213
+79,SureFix Home Repairs,Advanced Solutions,Los Angeles,5610 Enterprise Rd,(587) 847-4835,(587) 847-4836
+80,GreenTech Builders,Security & Surveillance,San Jose,9154 Patriot Ave,(738) 182-8753,(738) 182-8754
+81,Visionary Woodworks,Prefab Homes Division,Richmond,3916 Heritage Rd,(509) 608-3125,(509) 608-3126
+82,Urban Developers,Paving & Roadwork,Orlando,951 Chestnut St,(871) 201-4386,(871) 201-4387
+83,Evergreen Landscaping,Steel Fabrication Unit,Virginia Beach,7692 Hope Ave,(998) 472-5439,(998) 472-5430
+84,Lakeside Property Maintenance,Commercial Roofing,St. Petersburg,1004 Country Club Dr,(477) 619-6424,(477) 619-6425
+85,Silverline Contractors,Safety & Compliance,San Bernardino,3950 Hoover St,(814) 145-5761,(814) 145-5762
+86,FirstChoice Plumbing,Welding & Metalworks,Corpus Christi,9883 Parkway Dr,(239) 331-4628,(239) 331-4629
+87,SmartHome Automation,Surveying & Planning,Las Vegas,8953 Autumn Rd,(747) 675-7136,(747) 675-7137
+88,Prime Property Maintenance,Home Automation,Corpus Christi,1423 Reagan Blvd,(293) 591-1420,(293) 591-1421
+89,Metro Electric Co.,High-End Custom Builds,Chula Vista,3521 Summit Ave,(395) 967-9792,(395) 967-9793
+90,Vertex Engineering,Plumbing & Piping,Oakland,3206 McKinley Ave,(804) 383-8206,(804) 383-8207
+91,Arbor Landscaping,Property Management,Henderson,6211 Pioneer Blvd,(228) 304-1448,(228) 304-1449
+92,Precision Metal Fabrication,Stone & Brickworks,Columbus,5281 Loyalty Blvd,(559) 689-6645,(559) 689-6646
+93,PowerLink Electrical,Innovations Team,Chesapeake,7839 McKinley Ave,(320) 600-5147,(320) 600-5148
+94,Luxe Living Renovations,Luxury Homes Division,Sacramento,3246 Riverside Dr,(606) 857-4707,(606) 857-4708
+95,Pioneer Contractors,Waterproofing Division,Tampa,1842 Pioneer Blvd,(360) 957-8827,(360) 957-8828
+96,FastFix Repairs,Roofing Experts,Phoenix,1880 Prosperity Dr,(740) 134-9769,(740) 134-9760
+97,Elemental Builders,Special Projects,Oakland,5500 Wisdom Rd,(724) 835-4337,(724) 835-4338
+98,NorthWind HVAC,Design Studio,San Antonio,8934 Ford St,(579) 614-8374,(579) 614-8375
+99,Strong Foundations,Commercial Interiors,Portland,175 Honor St,(256) 366-5440,(256) 366-5441
+100,SolarTech Solutions,HVAC Division,Toledo,6234 Taylor St,(957) 906-7211,(957) 906-7212

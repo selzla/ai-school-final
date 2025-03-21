@@ -1,0 +1,7 @@
+python-Levenshtein==0.20.8
+openai==1.1.0
+pandas==2.1.1
+pillow==10.1.0
+ast==1.2.0
+json==2.0.9
+langchain==0.2.10
